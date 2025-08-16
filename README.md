@@ -1,30 +1,22 @@
-# 👋 Hi there, I'm Juan!
+👋 Hi there, I'm Juan!
 
-🎓 Software and Data Engineering student  
-💻 Passionate about backend development, automation, and artificial intelligence  
-🛡️ Exploring cybersecurity and system protection  
-🚀 Eager to grow as a developer through real-world projects
+🎓 Software and Data Engineering student
+💻 Passionate about backend development, automation, and artificial intelligence
+🛡️ Exploring cybersecurity and system protection
+🚀 Focused on growing as a developer through hands-on projects and continuous learning
 
----
+🚀 About Me
 
-## 🚀 About Me
+🔧 Currently learning Java, SQL, Spring Boot, and Git-based workflows
 
-- 🔧 Currently learning **Java, SQL, Spring Boot, and Git-based workflows**
-- 🤖 Interested in using AI to improve productivity and daily life
-- 📚 Creating digital products and content for students (like prompt packs & tools)
-- 🎯 Next goal: Build complete projects involving **Java, PostgreSQL, and basic security principles**
+🤖 Exploring how AI & automation can enhance productivity and daily life
 
----
-## 🧰 Tecnologías y herramientas
+📚 Building digital products and tools for students and developers
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+🎯 Next milestone: Develop complete projects using Java + PostgreSQL, with a focus on security principles and best practices
 
----
+🧰 Technologies & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> </p>
 
 ## 📈 GitHub Stats
 
@@ -40,7 +32,7 @@
 ## 📫 Let's Connect
 
 - Email: juanarenasing@gmail.com
-- LinkedIn: [www.linkedin.com/in/juan-manuel-arenas-rodríguez-4b69ba309](www.linkedin.com/in/juan-manuel-arenas-rodríguez-4b69ba309)
+- LinkedIn: [jmarenasr](https://www.linkedin.com/in/juanmarenasr/)
 
 
 ---
