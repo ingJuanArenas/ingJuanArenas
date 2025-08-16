@@ -1,26 +1,24 @@
-👋 Hola, soy Juan!
+👋 Hi there, I'm Juan!
 
-🎓 Desarrollador Full Stack apasionado por el backend.
+🎓 Full Stack Developer passionate about backend technologies.
 
-💻 Especializado en la creación de soluciones eficientes y robustas. Me enfoco en construir APIs REST con **Spring Boot** y bases de datos con **PostgreSQL**, mientras exploro el desarrollo frontend con **Angular**.
-
----
-
-🚀 Proyectos Destacados
-
-### 🍽️ API REST para un Sistema de Restaurante
-**Tecnologías:** Java, Spring Boot, Spring JPA, Hibernate, PostgreSQL, JWT
-**Descripción:** Una API REST completa para la gestión de un restaurante, que incluye autenticación de usuarios con JSON Web Tokens (JWT) y operaciones CRUD para la gestión de mesas, pedidos y menús.
-
-### 🥗 Recetas App
-**Tecnologías:** Angular, Tailwind CSS
-**Descripción:** Un proyecto de frontend que muestra una interfaz moderna y responsiva para explorar diferentes recetas, demostrando habilidades en el diseño y la implementación de interfaces de usuario.
-
----
-### 🔧 Tecnologías & Herramientas
+💻 Specializing in building efficient and robust solutions. My focus is on creating REST APIs with **Spring Boot** and managing databases with **PostgreSQL**, while also exploring frontend development with **Angular**.
 
 ---
 
+🚀 Featured Projects
+
+### 🍽️ REST API for a Restaurant System
+**Technologies:** Java, Spring Boot, Spring JPA, Hibernate, PostgreSQL, JWT
+**Description:** A comprehensive REST API for restaurant management, featuring user authentication with JSON Web Tokens (JWT) and CRUD operations for managing tables, orders, and menus.
+
+### 🥗 Recipes App
+**Technologies:** Angular, Tailwind CSS
+**Description:** A frontend project showcasing a modern and responsive user interface for exploring different recipes, demonstrating skills in UI design and implementation.
+
+---
+
+### 🔧 Technologies & Tools
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
 
@@ -45,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60"/>
 
 </div>
+
 ---
 
 📈 GitHub Stats
@@ -57,11 +56,11 @@
 
 ---
 
-📫 Conectemos
+📫 Let's Connect
 
 - Email: juanarenasing@gmail.com
 - LinkedIn: [jmarenasr](https://www.linkedin.com/in/juanmarenasr/)
 
 ---
 
-_Gracias por tu visita! Estoy abierto a colaboraciones y nuevas oportunidades de aprendizaje._
+_Thanks for stopping by! I'm open to collaboration and new learning opportunities._
