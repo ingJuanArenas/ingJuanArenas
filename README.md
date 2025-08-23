@@ -5,12 +5,15 @@
 💻 Specializing in building efficient and robust solutions. My focus is on creating REST APIs with **Spring Boot** and managing databases with **PostgreSQL**, while also exploring frontend development with **Angular**.
 
 ---
-
-🚀 Featured Projects
+### 🚀 Featured Projects
 
 ### 🍽️ REST API for a Restaurant System
 **Technologies:** Java, Spring Boot, Spring JPA, Hibernate, PostgreSQL, JWT
 **Description:** A comprehensive REST API for restaurant management, featuring user authentication with JSON Web Tokens (JWT) and CRUD operations for managing tables, orders, and menus.
+
+### 📋 Full-Stack Task Manager
+**Technologies:** Java, Spring Boot, Angular, Tailwind CSS, Spring Security, PostgreSQL
+**Description:** A full-stack application that allows users to register, log in, and manage their personal tasks. The project features a robust **many-to-many data model**, user authentication with roles, and a complete **RESTful API** for all task management operations.
 
 ### 🥗 Recipes App
 **Technologies:** Angular, Tailwind CSS
