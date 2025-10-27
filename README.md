@@ -1,5 +1,7 @@
 👋 Hi there, I'm Juan!
 
+**Full Stack Developer | Java & Spring Boot | APIs REST | Angular | PostgreSQL**
+
 🎓 Full Stack Developer passionate about backend technologies.
 
 💻 Specializing in building efficient and robust solutions. My focus is on creating REST APIs with **Spring Boot** and managing databases with **PostgreSQL**, while also exploring frontend development with **Angular**.
