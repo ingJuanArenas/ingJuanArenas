@@ -14,7 +14,7 @@
 
 ---
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ingJuanArenas&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingJuanArenas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingJuanArenas&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
