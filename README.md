@@ -13,11 +13,12 @@
 - **Tools:** Git, GitHub, HTML, CSS, Tailwind
 
 ---
-
 ## 📊 GitHub Stats
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingJuanArenas&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingJuanArenas&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingJuanArenas&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingJuanArenas&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
+
 
 ---
 
