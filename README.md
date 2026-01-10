@@ -14,9 +14,11 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingJuanArenas&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=ingJuanArenas&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingJuanArenas&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingJuanArenas&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+
 
 
 
