@@ -23,4 +23,4 @@
 
 ## 📫 Contact
 - 📧 Email: juanarenasing@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/jmarenasr/
+- 💼 LinkedIn: https://www.linkedin.com/in/juanmarenasr/
